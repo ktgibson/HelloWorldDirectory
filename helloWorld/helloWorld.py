@@ -1,6 +1,6 @@
 #print("Hello, World!")
 
-# Adding some complexity: helloWorld as a function!
+#Hello, World! as a function!
 def helloWorld():
     print("Hello, World!")
 
