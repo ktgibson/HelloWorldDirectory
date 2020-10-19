@@ -1,5 +1,5 @@
 # Hello, World!
-A directory of Hello, World in your favorite programming language!
+A directory of "Hello, World" in your favorite programming language!
 
 ### Why does this exist?!
 Simple! I've just started to learn how to write code and very much want to learn git but I don't think I'm ready to contribute to opensource just yet! So I decided to create my own public repo and start researching different programming languages.
