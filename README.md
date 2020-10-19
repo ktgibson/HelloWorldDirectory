@@ -1,4 +1,4 @@
-# HelloWorldDirectory
+# Hello, World!
 A directory of Hello, World in your favorite programming language!
 
 ### Why does this exist?!
