@@ -1,3 +1,6 @@
+# This is closed now!
+I opened this up for the Hacktoberfest event and now that has ended.
+
 # Hello, World!
 A directory of "Hello, World" in your favorite, or least favorite, programming language!
 
